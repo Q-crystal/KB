@@ -54,6 +54,7 @@
 
 - [[00-Index/GITHUB_SETUP|GitHub 配置指南]] - 配置GitHub仓库和云端同步
 - [[00-Index/CLOUD_CODEX_GUIDE|云端 Codex 使用指南]] - 在云端使用GPT Codex
+- [[00-Index/AGENT_PROMPTS|智能体提示词]] - Trae智能体与Codex的协作规范
 
 ## GitHub 状态
 
