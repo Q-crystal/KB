@@ -12,9 +12,21 @@
   - [[concept-random-variable|随机变量]]
   - [[concept-probability-distribution|概率分布]]
   - [[concept-normal-distribution|正态分布]]
+  - [[concept-reprune|REPrune - 用通道剪枝模拟核剪枝]] ⭐ 新增
 
 - **methods/**: 方法卡片
   - [[method-probability-calculation|概率计算方法]]
+  - [[method-kernel-clustering-ward|核聚类(Ward)]] ⭐ 新增
+  - [[method-layer-wise-cutoff|层-wise截断]] ⭐ 新增
+  - [[method-maximum-cluster-coverage|最大簇覆盖问题]] ⭐ 新增
+
+- **engineering/**: 工程卡片 ⭐ 新增
+  - [[engineering-concurrent-training-pruning|并发训练-剪枝]]
+  - [[engineering-resnet-pruning-constraints|ResNet剪枝约束]]
+
+- **claims/**: 主张卡片 ⭐ 新增
+  - [[claim-reprune-imagenet-results|REPrune ImageNet实验结果]]
+  - [[claim-ward-linkage-superiority|Ward linkage优势]]
 
 - **deprecated/**: 废弃卡片
   - [[old-concept-probability|旧概率概念]]
