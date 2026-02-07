@@ -49,3 +49,19 @@
 - 查看所有稳定卡片: `#status/stable`
 - 查看所有概念卡片: `#type/concept`
 - 查看所有废弃卡片: `#status/deprecated`
+
+## 云端协作
+
+- [[00-Index/GITHUB_SETUP|GitHub 配置指南]] - 配置GitHub仓库和云端同步
+- [[00-Index/CLOUD_CODEX_GUIDE|云端 Codex 使用指南]] - 在云端使用GPT Codex
+
+## GitHub 状态
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/YOUR_USERNAME/kb)
+
+**本地仓库状态**: 已初始化，等待推送到GitHub
+
+**下一步**:
+1. 创建GitHub仓库
+2. 推送代码到GitHub
+3. 配置云端Codex环境
