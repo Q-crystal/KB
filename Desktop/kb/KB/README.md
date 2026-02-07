@@ -19,6 +19,11 @@
   - [[method-kernel-clustering-ward|核聚类(Ward)]] ⭐ 新增
   - [[method-layer-wise-cutoff|层-wise截断]] ⭐ 新增
   - [[method-maximum-cluster-coverage|最大簇覆盖问题]] ⭐ 新增
+  - [[method-reprune-algorithm1|REPrune Algorithm 1]] ⭐⭐ 详细算法
+  - [[method-reprune-algorithm2|REPrune Algorithm 2]] ⭐⭐ 完整流程
+
+- **concepts/** (REPrune 详细)
+  - [[concept-ward-linkage-derivation|Ward's Linkage 完整推导]] ⭐⭐ 数学推导
 
 - **engineering/**: 工程卡片 ⭐ 新增
   - [[engineering-concurrent-training-pruning|并发训练-剪枝]]
@@ -27,6 +32,7 @@
 - **claims/**: 主张卡片 ⭐ 新增
   - [[claim-reprune-imagenet-results|REPrune ImageNet实验结果]]
   - [[claim-ward-linkage-superiority|Ward linkage优势]]
+  - [[claim-reprune-experiments-detailed|REPrune 详细实验结果]] ⭐⭐ 全面分析
 
 - **deprecated/**: 废弃卡片
   - [[old-concept-probability|旧概率概念]]
