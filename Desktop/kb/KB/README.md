@@ -57,11 +57,17 @@
 
 ## GitHub 状态
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/YOUR_USERNAME/kb)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Q-crystal/KB)
 
-**本地仓库状态**: 已初始化，等待推送到GitHub
+**仓库地址**: `https://github.com/Q-crystal/KB.git`
 
-**下一步**:
-1. 创建GitHub仓库
-2. 推送代码到GitHub
-3. 配置云端Codex环境
+**同步状态**: ✅ 已推送到GitHub，与云端同步
+
+**日常使用**:
+```bash
+# 推送到云端
+git push origin main
+
+# 从云端拉取
+git pull origin main
+```
