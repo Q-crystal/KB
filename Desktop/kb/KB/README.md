@@ -24,15 +24,18 @@
 
 - **concepts/** (REPrune 详细)
   - [[concept-ward-linkage-derivation|Ward's Linkage 完整推导]] ⭐⭐ 数学推导
+  - [[concept-channel-pruning-survey|通道剪枝方法综述]] ⭐⭐ 领域综述
 
 - **engineering/**: 工程卡片 ⭐ 新增
   - [[engineering-concurrent-training-pruning|并发训练-剪枝]]
   - [[engineering-resnet-pruning-constraints|ResNet剪枝约束]]
+  - [[engineering-reprune-implementation|REPrune 实现细节]] ⭐⭐ 代码实现
 
 - **claims/**: 主张卡片 ⭐ 新增
   - [[claim-reprune-imagenet-results|REPrune ImageNet实验结果]]
   - [[claim-ward-linkage-superiority|Ward linkage优势]]
   - [[claim-reprune-experiments-detailed|REPrune 详细实验结果]] ⭐⭐ 全面分析
+  - [[claim-reprune-ablation-studies|REPrune 消融实验]] ⭐⭐ 组件验证
 
 - **deprecated/**: 废弃卡片
   - [[old-concept-probability|旧概率概念]]
