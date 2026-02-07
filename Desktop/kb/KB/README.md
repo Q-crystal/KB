@@ -71,25 +71,23 @@
 - 查看所有概念卡片: `#type/concept`
 - 查看所有废弃卡片: `#status/deprecated`
 
-## 云端协作
+## 知识管理
 
-- [[00-Index/GITHUB_SETUP|GitHub 配置指南]] - 配置GitHub仓库和云端同步
-- [[00-Index/CLOUD_CODEX_GUIDE|云端 Codex 使用指南]] - 在云端使用GPT Codex
-- [[00-Index/AGENT_PROMPTS|智能体提示词]] - Trae智能体与Codex的协作规范
+- [[00-Index/KB_MANAGEMENT_GUIDE|KB 管理指南]] - 知识库管理规范
+- [[00-Index/PAPER_READING_GUIDE|论文阅读指南]] - 论文提取与处理方法
 
-## GitHub 状态
+## 同步状态
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Q-crystal/KB)
 
 **仓库地址**: `https://github.com/Q-crystal/KB.git`
 
-**同步状态**: ✅ 已推送到GitHub，与云端同步
+**状态**: ✅ 已同步
 
-**日常使用**:
 ```bash
-# 推送到云端
+# 推送
 git push origin main
 
-# 从云端拉取
+# 拉取
 git pull origin main
 ```
